@@ -1,2 +1,2 @@
 # docker-dnsphpadmin
-This project is to run [https://github.com/benapetr/dnsphpadmin](dnsphpadmin) as a container
+This project is to run [dnsphpadmin](https://github.com/benapetr/dnsphpadmin) as a container
