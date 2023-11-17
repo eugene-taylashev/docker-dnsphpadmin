@@ -1,2 +1,2 @@
 # docker-dnsphpadmin
-Make dnsphpadmin to run as a container
+This project is to run [https://github.com/benapetr/dnsphpadmin](dnsphpadmin) as a container
